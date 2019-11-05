@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+dist/
+public/js/app.js
 src/server/config
 
 # testing
